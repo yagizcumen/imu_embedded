@@ -11,6 +11,9 @@ This project demonstrates the integration of the ATmega328P AU microcontroller w
 
 ## Project Overview
 
+![imuduino](https://github.com/user-attachments/assets/310b3eb1-e2c8-4e04-8591-7fd38f0a7242)
+![imuduino1](https://github.com/user-attachments/assets/f498c8aa-b72f-431e-adae-a9d9d5b0bafc)
+
 This project leverages the ATmega328P AU, a popular 8-bit microcontroller, to interface with two key hardware components: the mmcu5603nj and the ls6dsm. 
 
 - **mmcu5603nj**: This is a sensor or data acquisition module (depending on your setup), used in this project for capturing sensor readings. It could be used for a variety of purposes such as environmental monitoring, measuring physical parameters, etc.
